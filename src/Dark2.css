@@ -1,0 +1,30 @@
+a{
+    margin-top: 20px;
+  }
+  .one{
+    background-color: black;
+    color: white;
+    height: 30px;
+    margin-top: 10px;
+  }
+  .two{
+    background-color: yellow;
+    color: black;
+    height: 30px;
+    margin-top: 10px;
+  }
+  .three{
+    background-color: transparent;
+    color: blue;
+    border: 1px solid blue;
+    height: 40px;
+  }
+
+ .darkmode{
+    background-color: black;
+    color: White;
+ }
+ .lightmode{
+    background-color: Light;
+    color: black;
+ }
